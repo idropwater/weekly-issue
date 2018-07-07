@@ -10,6 +10,9 @@ Handsontable Pro是一个用JavaScript编写的商业电子表格组件，不受
 
 地理信息可视化开源库 [Mapv](https://github.com/huiyan-fe/mapv/#readme)
 
+inMap 是一款基于百度地图的大数据可视化库，专注于大数据方向的散点、热力图、网格、聚合等方式展示，致力于让大数据可视化变得简单易用。[inMap](https://github.com/TalkingData/inmap)
+
+
 基于百度地图JavaScript Api封装的React组件库,设计思想使用子组件解耦 [react-bmap](https://github.com/huiyan-fe/react-bmap)
 
 基于D3封装的react组件库,设计思想使用子组件解耦 [recharts](https://github.com/recharts/recharts)
